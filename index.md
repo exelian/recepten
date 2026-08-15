@@ -1,6 +1,6 @@
 # Recepten
 
-|Recept|Bereidingsduur|Porties|Categorieën|
+|Recept|Bereidingsduur|Porties|CategorieÃ«n|
 |------|-------------:|------:|-----------|
 |[Aubergine alla Norma](aubergine_alla_norma.md)|35 min|3||
 |[Geroosterde bieten salade met geitenkaas](bieten_salade.md)|30 min|2|salade|

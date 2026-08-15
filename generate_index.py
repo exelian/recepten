@@ -58,7 +58,7 @@ def main():
         
         index += f"|[{r.title}]({recipe})|{r.duration} min|{r.portions}|{', '.join(r.categories)}|\n"
     
-    with open('index.md', 'w') as f:
+    with open('index.md', 'w', encoding='utf-8') as f:
         f.write(index)
     
 if __name__ == '__main__':
