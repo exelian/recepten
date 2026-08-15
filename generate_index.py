@@ -43,7 +43,7 @@ def recipe_processor(recipe_file: Path) -> Recipe:
         title_m.group(1),
         metadata['bereidingstijd'],
         metadata['porties'],
-        []
+        metadata.get('categorieën', '').split(', ')
     )
 
 def main():
@@ -51,12 +51,12 @@ def main():
     recipes = file_list - SKIP_ENTRIES
 
     index = "# Recepten\n\n"
-    index += "|Recept|Bereidingsduur|Porties|\n"
-    index += "|------|-------------:|------:|\n"
+    index += "|Recept|Bereidingsduur|Porties|Categorieën|\n"
+    index += "|------|-------------:|------:|-----------|\n"
     for recipe in sorted(recipes):
         r = recipe_processor(Path(recipe))
         
-        index += f"|[{r.title}]({recipe})|{r.duration} min|{r.portions}|\n"
+        index += f"|[{r.title}]({recipe})|{r.duration} min|{r.portions}|{', '.join(r.categories)}|\n"
     
     with open('index.md', 'w') as f:
         f.write(index)
