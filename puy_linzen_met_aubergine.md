@@ -1,4 +1,4 @@
-# Aubergine met linzen, tomaat en crème fraîche
+# Puy-linzen met Aubergine
 
 ## Ingrediënten
 

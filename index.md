@@ -7,7 +7,7 @@
 - [Krokante koningsoesterzwam-taco's](oesterzwam_tacos.md)
 - [Bier-paddenstoelenstoof](paddenstoelenstoof.md)
 - [Pasta Pesto met Citroenricotta](pasta_pesto.md)
-- [Aubergine met linzen, tomaat en crème fraîche](puy_linzen_met_aubergine.md)
+- [Puy-linzen met Aubergine](puy_linzen_met_aubergine.md)
 - [Rode curry-udon met tahintomatensaus](rode_curry_tahin_noodles.md)
 - [Tex-Mex tortilla's](tex_mex_tortillas.md)
 - [Tomaten-orzo met geroosterde groenten en burrata](tomaten_orzo.md)
