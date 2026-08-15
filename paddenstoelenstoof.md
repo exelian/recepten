@@ -1,3 +1,10 @@
+---
+bereidingstijd: 120
+porties: 4
+categorieën:
+  - stoof
+---
+
 # Bier-paddenstoelenstoof
 
 ## Ingrediënten

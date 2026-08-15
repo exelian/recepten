@@ -1,3 +1,10 @@
+---
+bereidingstijd: 35
+porties: 4
+categorieën:
+  - wraps
+---
+
 # Krokante koningsoesterzwam-taco's
 
 ## Ingrediënten

@@ -1,3 +1,10 @@
+---
+bereidingstijd: 35
+porties: 3-4
+categorieën:
+  - ...
+---
+
 # Rode curry-udon met tahintomatensaus
 
 ## Ingrediënten
@@ -13,7 +20,7 @@
 - 2 el sojasaus
 - 2 el kokosbloesemsuiker
 - 4 kaffir limoenblaadjes
-- 400 g udon noodles
+- 400 g udon noodles (bevroren)
 - 400 g bimi
 - 2–3 bosuitjes
 - Sesamzaad, ter garnering
@@ -35,9 +42,10 @@
 6. Roer goed door en laat de saus 10 minuten op laag vuur pruttelen.
 7. Bereid ondertussen de bimi door deze kort te wokken in een pan.
 8. Verwijder na 10 minuten de kaffir limoenblaadjes.
-9. Voeg de udon noodles toe aan de saus en bak 2–3 minuten mee op middelhoog vuur.
-10. Serveer de udon met de gebakken tofu en gewokte bimi.
-11. Garneer met bosui en sesamzaad.
+9. Ontdooi in 4-5 minuten de udon noodles in heet water
+10. Voeg de udon noodles toe aan de saus en bak 2–3 minuten mee op middelhoog vuur.
+11. Serveer de udon met de gebakken tofu en gewokte bimi.
+12. Garneer met bosui en sesamzaad.
 
 ## Optioneel
 

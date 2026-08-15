@@ -1,3 +1,10 @@
+---
+bereidingstijd: 35
+porties: 3
+categorieën:
+  - ...
+---
+
 # Aubergine alla Norma
 
 ## Ingrediënten

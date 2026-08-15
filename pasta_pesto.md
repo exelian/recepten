@@ -1,3 +1,10 @@
+---
+bereidingstijd: 25
+porties: 2
+categorieën:
+  - pasta
+---
+
 # Pasta Pesto met Citroenricotta
 
 ## Ingrediënten
@@ -16,7 +23,7 @@
 
 1. Verwarm de oven voor op 220 °C hetelucht. Snijd de courgette in lange linten met een dunschiller of in dunne halve maantjes. Snijd de paprika in dunne reepjes.
 
-2. Meng de courgette en paprika met een beetje olijfolie, zout en peper. Rooster de groenten 15 minuten in de oven, tot ze goudbruin en zacht zijn.
+2. Meng de courgette en paprika met een beetje olijfolie, zout en peper. Rooster de groenten 20 minuten in de oven, tot ze goudbruin en zacht zijn.
 
 3. Kook ondertussen de pasta naar keuze al dente in ruim gezouten water. Giet af en bewaar een kopje van het kookvocht.
 

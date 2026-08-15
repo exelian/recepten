@@ -1,3 +1,10 @@
+---
+bereidingstijd: 30
+porties: 2
+categorieën:
+  - salade
+---
+
 # Geroosterde bieten salade met geitenkaas
 
 ## Ingrediënten

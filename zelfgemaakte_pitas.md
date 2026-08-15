@@ -1,3 +1,10 @@
+---
+bereidingstijd: 75
+porties: 2
+categorieën:
+  - bijgerecht
+---
+
 # Zelfgemaakte pita's
 
 ## Ingrediënten
