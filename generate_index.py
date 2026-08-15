@@ -14,7 +14,7 @@ TITLE_RE = re.compile(r'# (.*)')
 class Recipe(NamedTuple):
     title: str
     duration: int
-    porties: int
+    portions: int
     categories: List[str]
 
 
@@ -55,7 +55,7 @@ def main():
     for recipe in sorted(recipes):
         r = recipe_processor(Path(recipe))
         
-        index += f"- [{r.title}]({recipe})\n"
+        index += f"- [{r.title}]({recipe}) ({r.duration} min, {r.portions} porties)\n"
     
     with open('index.md', 'w') as f:
         f.write(index)
