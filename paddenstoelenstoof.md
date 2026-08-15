@@ -1,8 +1,7 @@
 ---
 bereidingstijd: 120
 porties: 4
-categorieën:
-  - stoof
+categorieën: stoof
 ---
 
 # Bier-paddenstoelenstoof

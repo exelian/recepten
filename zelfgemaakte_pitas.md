@@ -1,8 +1,7 @@
 ---
 bereidingstijd: 75
 porties: 2
-categorieën:
-  - bijgerecht
+categorieën: bijgerecht
 ---
 
 # Zelfgemaakte pita's

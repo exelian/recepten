@@ -1,8 +1,7 @@
 ---
 bereidingstijd: 30
 porties: 2
-categorieën:
-  - wraps
+categorieën: wraps
 ---
 
 # Tex-Mex tortilla's

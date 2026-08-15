@@ -1,8 +1,7 @@
 ---
 bereidingstijd: 60
 porties: 2
-categorieën:
-  - stoof
+categorieën: stoof
 ---
 
 # Puy-linzen met Aubergine

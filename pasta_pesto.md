@@ -1,8 +1,7 @@
 ---
 bereidingstijd: 25
 porties: 2
-categorieën:
-  - pasta
+categorieën: pasta, makkelijk
 ---
 
 # Pasta Pesto met Citroenricotta
