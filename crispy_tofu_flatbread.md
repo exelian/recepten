@@ -1,6 +1,7 @@
 ---
 bereidingstijd: 20
 porties: 2
+categorieën: makkelijk
 ---
 
 # Crispy Tofu flatbread

@@ -1,7 +1,7 @@
 ---
 bereidingstijd: 45
 porties: 2
-categorieën: pasta
+categorieën: makkelijk, pasta
 ---
 
 # Tomaten-orzo met geroosterde groenten en burrata
