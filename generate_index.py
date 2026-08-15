@@ -51,8 +51,8 @@ def main():
     recipes = file_list - SKIP_ENTRIES
 
     index = "# Recepten\n\n"
-    index += "|Recept|Bereidingsduur|Porties|"
-    index += "|------|-------------:|------:|"
+    index += "|Recept|Bereidingsduur|Porties|\n"
+    index += "|------|-------------:|------:|\n"
     for recipe in sorted(recipes):
         r = recipe_processor(Path(recipe))
         

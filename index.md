@@ -1,6 +1,8 @@
 # Recepten
 
-|Recept|Bereidingsduur|Porties||------|-------------:|------:||[Aubergine alla Norma](aubergine_alla_norma.md)|35 min|3|
+|Recept|Bereidingsduur|Porties|
+|------|-------------:|------:|
+|[Aubergine alla Norma](aubergine_alla_norma.md)|35 min|3|
 |[Geroosterde bieten salade met geitenkaas](bieten_salade.md)|30 min|2|
 |[Crispy Tofu flatbread](crispy_tofu_flatbread.md)|20 min|2|
 |[Paratha met Geroosterde aubergine & yoghurt](frisse_paratha.md)|30 min|2|
