@@ -1,4 +1,4 @@
-# Geroosterde aubergine met yoghurt, linzen, munt, koriander, amandel en granaatappel met paratha
+# Paratha met Geroosterde aubergine & yoghurt
 
 ## Ingrediënten
 

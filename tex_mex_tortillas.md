@@ -1,4 +1,4 @@
-# Tex-Mex tortilla's met vega gehakt
+# Tex-Mex tortilla's
 
 ## Ingrediënten
 

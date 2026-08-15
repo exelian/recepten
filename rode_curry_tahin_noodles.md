@@ -1,4 +1,4 @@
-# Romige rode curry-udon met tahintomatensaus, tofu en bimi
+# Rode curry-udon met tahintomatensaus
 
 ## Ingrediënten
 

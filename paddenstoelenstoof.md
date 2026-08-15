@@ -1,4 +1,4 @@
-# Zware bier-paddenstoelenstoof
+# Bier-paddenstoelenstoof
 
 ## Ingrediënten
 

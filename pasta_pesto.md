@@ -1,4 +1,4 @@
-# Pasta Pesto met Geroosterde Courgette, Paprika & Citroenricotta
+# Pasta Pesto met Citroenricotta
 
 ## Ingrediënten
 

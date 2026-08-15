@@ -1,4 +1,4 @@
-# Lauwe salade van geroosterde biet, perzik en linzen met geitenkaas
+# Geroosterde bieten salade met geitenkaas
 
 ## Ingrediënten
 
