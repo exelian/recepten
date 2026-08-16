@@ -9,19 +9,18 @@ categorieën: salade
 ## Ingrediënten
 
 - Focaccia
-- 500 g rode bieten
+- 500 g rode  (liefst ongekookt)
 - 2 rijpe perziken of nectarines
 - 250 g groene of zwarte linzen
 - 100 g zachte geitenkaas
 - 75 g walnoten
 - 75 g rucola
 - 1 kleine rode ui
+- ½ citroen
 - 15 g verse munt
 - 15 g platte peterselie
 - 1½ el kappertjes
 - 4 el extra vierge olijfolie
-- 2 el citroensap
-- rasp van ½ citroen
 - 2 tl Dijonmosterd
 - 1 kleine teen knoflook
 - zwarte peper
@@ -36,6 +35,7 @@ categorieën: salade
 6. Snijd de perziken of nectarines in partjes.
 7. Snijd de rode ui heel dun.
 8. Snijd de munt en peterselie fijn.
+9. Rasp de ½ citroen en pers deze daarna
 9. Rooster de walnoten **6–8 minuten** mee in de oven, of rooster ze droog in een koekenpan.
 10. Meng voor de dressing **4 el** olijfolie met **2 el** citroensap, de rasp van **½ citroen** en **2 tl** Dijonmosterd.
 11. Rasp eventueel **1 kleine teen** knoflook fijn en voeg deze toe aan de dressing.

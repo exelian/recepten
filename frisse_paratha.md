@@ -1,7 +1,6 @@
 ---
 bereidingstijd: 30
 porties: 2
-categorieën:
 ---
 
 # Paratha met Geroosterde aubergine & yoghurt

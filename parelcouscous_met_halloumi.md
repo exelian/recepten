@@ -1,7 +1,6 @@
 ---
 bereidingstijd: 25
 porties: 2
-categorieën:
 ---
 
 # Parelcouscous met halloumi en citroen-yoghurtdressing

@@ -1,7 +1,6 @@
 ---
 bereidingstijd: 35
 porties: 3
-categorieën: 
 ---
 
 # Rode curry-udon met tahintomatensaus
